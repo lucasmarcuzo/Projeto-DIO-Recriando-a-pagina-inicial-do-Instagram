@@ -1,6 +1,8 @@
 <h1> 🛠️ Projeto - Recriando a página inicial do Instagram 💻</h1>
 
-- <H3> 👨🏻‍💻 Reconstruindo a página de login do Instagram</h3>
+<H3> 👨🏻‍💻 Reconstruindo a página de login do Instagram</h3> 
+
+[![Visualizar](https://img.shields.io/badge/Visualizar-blue&?style=for-the-badge&logo=web&color=blue&link=https://lucasmarcuzo.github.io/Projeto-DIO-Recriando-a-pagina-inicial-do-Instagram/Projeto-Instagram/Index.html)](https://lucasmarcuzo.github.io/Projeto-DIO-Recriando-a-pagina-inicial-do-Instagram/Projeto-Instagram/Index.html) 
 
 ## 👨🏻‍🔬 Instrutora: 
 
