@@ -36,6 +36,6 @@
 ![MIT License](https://img.shields.io/github/license/lucasmarcuzo/Projeto-DIO-Recriando-a-pagina-inicial-do-Instagram)
 
 <div align="right"> <h3> - Obrigado pela Visita! ✌🏻</h3> </div> 
-<p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasmarcuzo/Projeto-DIO-Recriando-a-pagina-inicial-do-Instagram"> </h3>
+<p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasmarcuzo/DIO-Recriando-a-pagina-inicial-do-Instagram"> </h3>
 
 
